@@ -1,0 +1,20 @@
+Résultats
+
+
+
+Exercice 3 :
+
+1-Problèmes:
+-Chaque processus qui calcule un Cij doit  accéder a la mémoire partagée
+-Les processus doivent s’exécuter dans un ordre donné
+-Le stockage du résultat de chaque processus après traitement
+-Processus pour remplir les valeurs entres par l’utilisateur dans la matrice
+
+2-Pour  résoudre ces problèmes :
+Il faut récupérer l’ordre de la matrice sur la première ligne du fichier
+Ensuite récupérer la matrice elle même dans un tableau depuis le fichier
+Ensuite créer une mémoire partagée pour gérer les processus comme ca on pourra envoyer a chaque processus les indices i et j du Cij a calculer
+Enfin récupérer la matrice carrée dans un tableau et l’affichée.
+
+3- Voir les fichiers sources utilisés dans le même répertoire que ce dossier.
+

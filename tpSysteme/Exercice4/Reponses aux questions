@@ -1,0 +1,17 @@
+Résultats
+
+
+
+Exercice 4 :
+
+1-Problèmes:
+
+-Envoyer des fichiers aux serveurs par le client
+-Récupérer les fichiers envoyés du client par le serveur quelque soit le type.
+
+2-Pour  résoudre ces problèmes :
+Récupérer et envoyer les fichiers bytes par bytes du client de tel sorte qu’aucune donnée ne soit perdue.
+
+
+3- Voir les fichiers sources utilisés dans le même répertoire que ce dossier.
+

@@ -1,0 +1,14 @@
+Résultats
+
+
+
+Exercice 5 :
+
+1-Problèmes:
+Envoyer une requête au client chaque 10s.
+
+2-Pour  résoudre ces problèmes :
+En utilisant les fonctions send et sleep ce problème peut être résolu.
+
+3- Voir les fichiers sources utilisés dans le même répertoire que ce dossier.
+

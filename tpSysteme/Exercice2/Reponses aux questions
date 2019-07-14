@@ -1,0 +1,12 @@
+Résultats
+
+
+
+Exercice 2 :
+
+1-La valeur finale dans la mémoire  partagée est de  100.
+
+2-Pour résoudre ce problème il faut faire intervenir la notion de verrou avec la notion de sémaphore. 
+
+3- Voir le main.c ci joint a ce dossier.
+
